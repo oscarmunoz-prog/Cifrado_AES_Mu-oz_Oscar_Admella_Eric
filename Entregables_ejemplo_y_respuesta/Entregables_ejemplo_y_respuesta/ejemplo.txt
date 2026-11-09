@@ -1,0 +1,3 @@
+Fichero de prueba para la actividad ACT02 - CajaFuerte.
+Si puedes leer esto, el descifrado con AES-256-GCM ha funcionado.
+Caracteres especiales: áéíóú ÁÉÍÓÚ ñÑ ç € ¿? ¡!

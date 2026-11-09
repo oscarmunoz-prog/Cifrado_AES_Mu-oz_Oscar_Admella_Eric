@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CajaFuerte_Munoz_Oscar_Admella_Eric": {
+      "commandName": "Project",
+      "commandLineArgs": "descifrar prueba.caja recuperado.txt",
+      "workingDirectory": "F:\\DAM2\\PROGRAMACION DE SERVICIOS\\CIFRADO AES\\CajaFuerte_Munoz_Oscar_Admella_Eric\\CajaFuerte_Munoz_Oscar_Admella_Eric"
+    }
+  }
+}

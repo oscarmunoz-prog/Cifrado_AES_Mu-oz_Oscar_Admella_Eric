@@ -1,0 +1,3 @@
+¿Si guardaras la clave de cifrado en el mismo sitio que el fichero cifrado, qué habrías conseguido realmente?
+
+Nada en términos de seguridad: quien consiga el fichero cifrado obtiene a la vez la clave y lo descifra al momento, así que el cifrado se queda en oculto. AES es un algoritmo público y toda su seguridad depende de que la clave sea secreta. Por eso en el .caja sí pueden ir la sal, el nonce y el tag, que no son secretos, pero nunca la contraseña ni la clave derivada: estas deben estar en otro sitio.
